@@ -2,7 +2,7 @@ Blog for Ceng317
 ----------------
 ### September 9th, 2019(Week 1)
 
-[Repository]( https://junedacaya.github.io/L-wingSolarPanelInteractiveDisplay/) created!
+[Repository](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay) created!
 
 Added 4 files in the documentation folder
 
