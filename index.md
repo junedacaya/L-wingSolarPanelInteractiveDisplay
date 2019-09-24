@@ -2,7 +2,7 @@ Blog for Ceng317
 ----------------
 ### September 24th, 2019(Week 4)
 
-Project sbudget due
+Project budget due for PLC
 
 [PLC](https://www.digikey.ca/en/articles/techzone/2018/jun/creating-a-custom-wireless-programmable-logic-controller) refference link.
 
