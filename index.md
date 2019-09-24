@@ -2,7 +2,7 @@ Blog for Ceng317
 ----------------
 ### September 24th, 2019(Week 4)
 
-Project budget due for PLC
+Project [budget](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PLC%20project%20budget.xlsx) due for PLC
 
 [PLC](https://www.digikey.ca/en/articles/techzone/2018/jun/creating-a-custom-wireless-programmable-logic-controller) refference link.
 
