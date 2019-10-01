@@ -10,7 +10,7 @@ Project [budget](https://github.com/junedacaya/L-wingSolarPanelInteractiveDispla
 [PLC](https://www.digikey.ca/en/articles/techzone/2018/jun/creating-a-custom-wireless-programmable-logic-controller) reference link.
 
 ### September 17th, 2019(Week 3)
-Create and posted Project timeline[(Gantt Chart)](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Project%20time%20line.mpp)
+Create and posted Project timeline[(Gantt Chart)](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Project%20time%20line.pdf)
 
 
 ### September 10th, 2019(Week 2)
