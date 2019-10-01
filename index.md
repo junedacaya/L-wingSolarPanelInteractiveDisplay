@@ -2,7 +2,7 @@ Blog for Ceng317
 ----------------
 ### October 1, 2019(Week 5)
 Proof of Purchase ![Purchase](documentation/proof%20of%20purchase.PNG)
-Expected arrival of iems will be Wednesday October 2, 2019 at 5 PM.
+Expected arrival of iems will be Wednesday October 2, 2019 at 5 PM. All items were ordered from digikey.ca.
 
 ### September 24th, 2019(Week 4)
 
