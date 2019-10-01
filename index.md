@@ -1,7 +1,7 @@
 Blog for Ceng317
 ----------------
 ### October 1, 2019(Week 5)
-Proof of [Purchase](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/documentation/proof%20of%20purchase.PNG)
+Proof of [Purchase](Documentation/proof of purchase.PNG)
 
 ### September 24th, 2019(Week 4)
 
