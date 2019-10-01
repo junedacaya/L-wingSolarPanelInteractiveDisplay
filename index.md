@@ -1,7 +1,7 @@
 Blog for Ceng317
 ----------------
 ### October 1, 2019(Week 5)
-Proof of ![Purchase](documentation/proof%of%purchase.PNG)
+Proof of ![Purchase](documentation/proof%20of%20purchase.PNG)
 
 ### September 24th, 2019(Week 4)
 
