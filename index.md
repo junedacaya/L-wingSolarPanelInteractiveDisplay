@@ -9,10 +9,10 @@ Breadboard Design
 ![Breadboard Design](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/BreadboardDesign.PNG?raw=true)
 
 Schematic Design
-![Schematic Design](Documentation/Schematic%20Design.png)
+![Schematic Design](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Schematic%20Design.png?raw=true)
 
 PCB Design
-![PCB Design](Documentation/PCB%20Design.png)
+![PCB Design](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PCB%20Design.png?raw=true)
 
 ### October 8, 2019(Week 6)
 Acquired my parts from the budget list. Brought them in class.
