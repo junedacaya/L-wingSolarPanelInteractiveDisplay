@@ -1,7 +1,7 @@
 Blog for Ceng317
 ----------------
 ### October 15, 2019(Week 7)
-Added my Breadboard design. [PDF] for the design is uploaded.
+Added my Breadboard design. [PDF](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Breadboard%20Design.pdf) for the design is uploaded.
 
 ### October 8, 2019(Week 6)
 Acquired my parts from the budget list. Brought them in class.
