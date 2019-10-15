@@ -7,10 +7,13 @@ Added my Breadboard design. [PDF](https://github.com/junedacaya/L-wingSolarPanel
 
 
 ![Breadboard Design](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Breadboard%20Design.png)
+
 Breadboard Design
 ![Schematic Design](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Schematic%20Design.png)
+
 Schematic Design
 ![PCB Design](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PCB%20Design.png)
+
 PCB Design
 
 ### October 8, 2019(Week 6)
