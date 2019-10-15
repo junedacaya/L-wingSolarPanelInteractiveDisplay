@@ -1,7 +1,8 @@
 Blog for Ceng317
 ----------------
 ### October 15, 2019(Week 7)
-Uploaded my fritzzing files in the Electronics folder. [STM32](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/STM32programmer2019-10-10.fzz)
+Uploaded my fritzzing files in the Electronics folder. [STM32.](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/STM32programmer2019-10-10.fzz)
+
 Added my Breadboard design. [PDF](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Breadboard%20Design.pdf) for the design is uploaded.
 
 
