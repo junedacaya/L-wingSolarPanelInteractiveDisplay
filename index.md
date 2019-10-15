@@ -15,8 +15,16 @@ Uploaded my fritzzing files in the Electronics folder. [STM32.](https://github.c
 
 Added my Breadboard design images as well as a [PDF](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Breadboard%20Design.pdf) for the design is uploaded.
 
-<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/BreadboardDesign.PNG?raw=true" width="200" height="300">
+Breadboard Design
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/BreadboardDesign.PNG?raw=true" width="200" height="400">
+
+Schematic Design
+
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Schematic%20Design.png?raw=true" width="200" height="300">
+
+PCB Design
+
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PCB%20Design.png?raw=true" width="200" height="300">
 
 ### October 8, 2019(Week 6)
