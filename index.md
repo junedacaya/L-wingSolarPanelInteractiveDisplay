@@ -1,6 +1,12 @@
 Blog for Ceng317
 ----------------
 ### October 15, 2019(Week 7)
+Recieved Printed Circuit Boards from the prototype lab this morning. Uploaded images of it.
+
+PCB Front Image![PCBFront](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PCB%20front.jpeg?raw=true)
+
+PCB Back Image![PCBBack](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PCB%20back.jpeg?raw=true)
+
 Uploaded my fritzzing files in the Electronics folder. [STM32.](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/STM32programmer2019-10-10.fzz)
 
 Added my Breadboard design. [PDF](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Breadboard%20Design.pdf) for the design is uploaded.
