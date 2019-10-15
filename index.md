@@ -5,18 +5,14 @@ Uploaded my fritzzing files in the Electronics folder. [STM32.](https://github.c
 
 Added my Breadboard design. [PDF](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Breadboard%20Design.pdf) for the design is uploaded.
 
-
+Breadboard Design
 ![Breadboard Design](Documentation/Breadboard%20Design.png)
 
-Breadboard Design
-
+Schematic Design
 ![Schematic Design](Documentation/Schematic%20Design.png)
 
-Schematic Design
-
-![PCB Design](Documentation/PCB%20Design.png)
-
 PCB Design
+![PCB Design](Documentation/PCB%20Design.png)
 
 ### October 8, 2019(Week 6)
 Acquired my parts from the budget list. Brought them in class.
