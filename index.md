@@ -1,5 +1,11 @@
 Blog for Ceng317
 ----------------
+### October 29, 2019(Week 8)
+Added my assembled parts for PLC
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20parts%201.jpeg?raw=true" width="200" heigth="300">
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20parts%202.jpeg?raw=true" width="200" heigth="300">
+
 ### October 15, 2019(Week 7)
 Recieved Printed Circuit Boards from the prototype lab this morning. Uploaded images of it.
 
