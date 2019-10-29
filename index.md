@@ -6,7 +6,7 @@ Added my assembled parts for PLC using this setup.
 
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/PLC%20Setup.PNG?raw=true" width="400" heigth="600">
 
-<img src="https://raw.githubusercontent.com/junedacaya/L-wingSolarPanelInteractiveDisplay/master/Documentation/Assembled%20parts%201.jpeg" width="200" heigth="300">
+<img src="https://raw.githubusercontent.com/junedacaya/L-wingSolarPanelInteractiveDisplay/master/Documentation/Assembled%20parts%201.jpeg?raw=true" width="200" heigth="300">
 
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20parts%202.jpeg?raw=true" width="200" heigth="300">
 
