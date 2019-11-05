@@ -3,6 +3,11 @@ Blog for Ceng317
 ### November 4th, 2019(Week 9)
 Soldered my PCB today. And purchased my usb wire for the Nucleo. I will update my budget. Interms of financial status, I only added a usb wire purchase in the previous week. In terms of the timeline for the project, I am currently ontime for finishing project goals everyweek. Photos of my soldered PCB and a simple connection showing power flowing from power source to ground.
 
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/front_pcb_soldered.jpeg?raw=true" width="600" heigth="400">
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/pcb_back_soldered.jpg?raw=true" width="600" heigth="400">
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/volts_readings.jpeg?raw=true" width="600" heigth="400">
 
 
 ### October 29, 2019(Week 8)
