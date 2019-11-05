@@ -1,5 +1,10 @@
 Blog for Ceng317
 ----------------
+### November 4th, 2019(Week 9)
+Soldered my PCB today. And purchased my usb wire for the Nucleo. I will update my budget. Interms of financial status, I only added a usb wire purchase in the previous week. In terms of the timeline for the project, I am currently ontime for finishing project goals everyweek. Photos of my soldered PCB and a simple connection showing power flowing from power source to ground.
+
+
+
 ### October 29, 2019(Week 8)
 Added my assembled parts for PLC using this setup.
 
