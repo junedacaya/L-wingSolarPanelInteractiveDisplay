@@ -1,6 +1,6 @@
 Blog for Ceng317
 ----------------
-Found this getting started link for the Nucleo PLC ![link](https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/ae/c3/8e/04/df/14/45/60/FP-IND-PLCWIFI1_Quick_start_guide/files/fp-ind-plcwifi1_quick_start_guide.pdf/jcr:content/translations/en.fp-ind-plcwifi1_quick_start_guide.pdf)
+Found this getting started link for the Nucleo PLC [link](https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/ae/c3/8e/04/df/14/45/60/FP-IND-PLCWIFI1_Quick_start_guide/files/fp-ind-plcwifi1_quick_start_guide.pdf/jcr:content/translations/en.fp-ind-plcwifi1_quick_start_guide.pdf)
 
 ### November 4th, 2019(Week 9)
 Soldered my PCB today. And purchased my usb wire for the Nucleo. I will update my budget. Interms of financial status, I only added a usb wire purchase in the previous week. In terms of the timeline for the project, I am currently ontime for finishing project goals everyweek. Photos of my soldered PCB and a simple connection showing power flowing from power source to ground.
