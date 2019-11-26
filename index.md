@@ -1,6 +1,8 @@
 Blog for Ceng317
 ----------------
 ### November 25th, 2019(Week 12)
+Able to run a simple blink program into my flat-form. [link](http://slemi.info/2017/04/13/blinky-nucleo-f401re/)
+### November 25th, 2019(Week 12)
 Tried running the PLC projects provided by the website. I was able to run it but I'm unable to connect the mobile app into the PLC. I dont know what IP address I should use to try to connect into the PLC.
 ### November 18th, 2019(Week 11)
 Found this getting started link for the Nucleo PLC [link](https://www.st.com/content/ccc/resource/sales_and_marketing/presentation/product_presentation/group0/ae/c3/8e/04/df/14/45/60/FP-IND-PLCWIFI1_Quick_start_guide/files/fp-ind-plcwifi1_quick_start_guide.pdf/jcr:content/translations/en.fp-ind-plcwifi1_quick_start_guide.pdf)
