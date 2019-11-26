@@ -2,6 +2,10 @@ Blog for Ceng317
 ----------------
 ### November 25th, 2019(Week 12)
 Able to run a simple blink program into my flat-form. [link](http://slemi.info/2017/04/13/blinky-nucleo-f401re/)
+I will look to apply PLC functions next semester.
+
+Uploaded my Powerpoint Presentation
+
 ### November 25th, 2019(Week 12)
 Tried running the PLC projects provided by the website. I was able to run it but I'm unable to connect the mobile app into the PLC. I dont know what IP address I should use to try to connect into the PLC.
 ### November 18th, 2019(Week 11)
