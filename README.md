@@ -1,4 +1,4 @@
 # L-wingSolarPanelInteractiveDisplay
 junedacaya.github.io/L-wingSolarPanelInteractiveDisplay
 
-## PLC Compunents Build Instructions
+## PLC Components Build Instructions
