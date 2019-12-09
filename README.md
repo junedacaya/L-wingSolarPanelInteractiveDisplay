@@ -12,5 +12,8 @@ For this build instruction, we will be assembling the Nucleo Wifi PLC using thei
 * A CPU/MCU
 * Input/output signal conditioning/ PLC functions
 * A Wi-Fi module/connection
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true">
+
+## System Diagram
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/system%20diagram.png?raw=true">
 
