@@ -6,7 +6,7 @@ junedacaya.github.io/L-wingSolarPanelInteractiveDisplay
 ## Table of Contents
 1. [Build Instructions](#PLC-Components-Build-Instructions)
 2. [System Diagram](#System-Diagram)
-3. [Bill of Materials-/-Budget](Bill-of-Material/Budget)
+3. [Bill of Materials/Budget](Bill-of-Material-/-Budget)
 
 
 ## PLC Components Build Instruction
