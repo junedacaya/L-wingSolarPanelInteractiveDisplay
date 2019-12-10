@@ -1,5 +1,5 @@
 # L-wingSolarPanelInteractiveDisplay
-[junedacaya.github.io/L-wingSolarPanelInteractiveDisplay](junedacaya.github.io/L-wingSolarPanelInteractiveDisplay)
+[junedacaya.github.io/L-wingSolarPanelInteractiveDisplay](https://junedacaya.github.io/L-wingSolarPanelInteractiveDisplay/)
 
 
 
