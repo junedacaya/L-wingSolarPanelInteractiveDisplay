@@ -48,7 +48,7 @@ Here is the assembled parts.
 
 ## PCB Design and Soldering and Enclosure
 
-For this particular project, we dont need to design a new PCB as well as solder anything. We might want to find and create a casing for the components. I found a basic enclosure for the STM32F401RE only. [Nucleo base enclosure](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/NucleoBox_V1.1.stl)
+For this particular project, we dont need to design a new PCB as well as solder anything. We might want to find and create a casing for the components. I found a basic enclosure for the STM32F401RE only. Here is the file you need to 3D printed.[Nucleo base enclosure.](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/NucleoBox_V1.1.stl)
 
 ## Power Up
 
