@@ -3,6 +3,7 @@ Blog for Ceng317
 ### December 9th, 2019 (Week 14)
 As I forgot to upload the assembled PLC parts with base cover for the STM32F401RE. Here it is. 
 Here is the link for the stl [file](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/NucleoBox_V1.1.stl)
+
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true">
 ### November 25th, 2019(Week 12)
 Able to run a simple blink program into my flat-form. [link](http://slemi.info/2017/04/13/blinky-nucleo-f401re/)
