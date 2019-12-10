@@ -42,7 +42,7 @@ Stack arrangement by [digikey manual](https://www.digikey.ca/en/articles/techzon
 
 Here is the assembled parts.
 
-<img src="https://raw.githubusercontent.com/junedacaya/L-wingSolarPanelInteractiveDisplay/master/Documentation/Assembled%20parts%201.jpeg?raw=true" height="530" width="420">
+<img src="https://raw.githubusercontent.com/junedacaya/L-wingSolarPanelInteractiveDisplay/master/Documentation/Assembled%20parts%201.jpeg?raw=true" height="420" width="420">
 
 ## PCB Design and Soldering and Enclosure
 
