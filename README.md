@@ -34,6 +34,7 @@ This project doesn't need a lot of time to build because it doesn't require desi
 After you ordered the material, it will probably only takes 1 or 2 days for it to arrive. When you have the material, you just need to do to assemble them is to stack them accordingly as show in the [System Diagram](#System-Diagram). After you stack it correctly, we then move on and try to run a code into it using a mini-USB connection into the PC.
 Stack arrangement by [digikey manual](https://www.digikey.ca/en/articles/techzone/2018/jun/creating-a-custom-wireless-programmable-logic-controller)
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/StackArrangement.JPG?raw=true">
+
 Result: 
-<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20parts%202.jpeg?raw=true heigh="400" width="600"">
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true>
 
