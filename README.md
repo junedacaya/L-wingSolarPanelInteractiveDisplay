@@ -12,9 +12,11 @@ junedacaya.github.io/L-wingSolarPanelInteractiveDisplay
 6. [PCB Design and Soldering and Enclosure](#PCB-Design-and-Soldering-and-Enclosure)
 7. [Power Up](#Power-Up)
 8. [Unit Testing](#Unit-Testing)
+9. [Production Testing](#Production-Testing)
+10. [Reproducing](#Reproducing)
 
 ## PLC Components Build Instruction
-For this build instruction, we will be assembling the Nucleo Wifi PLC using their components shown in the System Diagram which are developed and created by STMicroelectronics. There are three primary hardware components that a developer needs to build their own wireless PLC:
+For this build instruction, we will be assembling the Nucleo Wifi PLC using the STMicroelectronics components shown in the System Diagram which are developed and created by STMicroelectronics. There are three primary hardware components that a developer needs to build their own wireless PLC:
 * A CPU/MCU
 * Input/output signal conditioning/ PLC functions
 * A Wi-Fi module/connection
@@ -45,6 +47,7 @@ For this particular project, we dont need to design a new PCB as well as solder 
 ## Power Up
 
 By plugging it into the PC using the mini-USB connector we provide power into the whole system. In the winter semester, I will input more power into the PLC. But as of this current project, it will have enough power provided by the PC when we try the unit testing.
+
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true">
 
 ## Unit Tesing
@@ -69,8 +72,39 @@ Wait for the Software Pakcages Download to finish and hit OK.
 
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/softwarepackagedownload.PNG?raw=true">
 
-6. Select the generate code option and press OK. After the code is generated, you will be able to add the code that will control the LED to blink.
+6. Under your project go to Core > Src > main.c. Add the code between  /* USER CODE BEGIN */ and /* USER CODE END */. 
+Add this code to enable clock for port A. Also to configure pin as output.
+```
+/* USER CODE BEGIN 1 */
+ __HAL_RCC_GPIOA_CLK_ENABLE();
+ GPIO_InitTypeDef Init_LED;
+ /* USER CODE END 1 */
+```
 
-7. In the main.c, Add the following code to control the LED to blink.
+After the initialization, we need to turn the LED on/off with a time delay. Add the following code.
+```
+/* USER CODE BEGIN 3 */
+ HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
+ HAL_Delay(1000); 
+ }
+ /* USER CODE END 3 */
+ ```
+ 
+7. After the codes are added, we need to build the project. Click the build button. We should have no problems for this build.
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/buildproject2.PNG?raw=true">
 
-7. 
+8. If you have your component Plug into the PC, we can now run the Blinky401RE into the device. Click Run > Debug As > STM32 Cortex-M C/C++ Application.
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/debugas.png?raw=true">
+
+Your program should be running into your device. You need to press the Reset Button of the Nucleo-F401RE to see the LED blink with interval.
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/401RE.jpg?raw=true" height="460" width="320">
+
+## Production Testing
+
+Here is an image of my unit. A great addition for my unit would be a full enclosure that will cover all the sides and top but the input/output sockets at the back of the PLC01A1 and OUT01A1 will be available.
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true">
+
+## Reproducing
+Reproducing this project by following my instructions would be very possible. The project is easier because we dont have to make or create the PCB. All we need for the project are the components for PLC, WIFI, and extra OUTPUT functions and a development flatform and tool to program the device.
