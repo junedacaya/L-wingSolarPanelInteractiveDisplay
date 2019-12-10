@@ -40,6 +40,10 @@ After you ordered the material, it will probably only takes 1 or 2 days for it t
 Stack arrangement by [digikey manual](https://www.digikey.ca/en/articles/techzone/2018/jun/creating-a-custom-wireless-programmable-logic-controller)
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/StackArrangement.JPG?raw=true">
 
+Here is the assembled parts.
+
+<img src="https://raw.githubusercontent.com/junedacaya/L-wingSolarPanelInteractiveDisplay/master/Documentation/Assembled%20parts%201.jpeg?raw=true" height="530" width="420">
+
 ## PCB Design and Soldering and Enclosure
 
 For this particular project, we dont need to design a new PCB as well as solder anything. We might want to find and create a casing for the components. I found a basic enclosure for the STM32F401RE only. [Nucleo base enclosure](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/NucleoBox_V1.1.stl)
