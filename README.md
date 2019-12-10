@@ -35,6 +35,9 @@ After you ordered the material, it will probably only takes 1 or 2 days for it t
 Stack arrangement by [digikey manual](https://www.digikey.ca/en/articles/techzone/2018/jun/creating-a-custom-wireless-programmable-logic-controller)
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/StackArrangement.JPG?raw=true">
 
+## PCB Design and Soldering and Enclosure
+For this particular project, we dont need to design a new PCB as well as solder anything. We might want to find and create a casing for the components. I found a basic enclosure for the STM32F401RE only. [Nucleo base enclosure](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/NucleoBox_V1.1.stl)
+
 ## Power Up
 By plugging it into the PC using the mini-USB connector we provide power into the whole system. In the winter semester, I will input more power into the PLC. But as of this current project, it will have enough power provided by the PC when we try the unit testing.
-<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true" rotate="180">
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true">
