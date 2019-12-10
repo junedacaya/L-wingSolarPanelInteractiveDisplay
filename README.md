@@ -39,13 +39,38 @@ Stack arrangement by [digikey manual](https://www.digikey.ca/en/articles/techzon
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/StackArrangement.JPG?raw=true">
 
 ## PCB Design and Soldering and Enclosure
+
 For this particular project, we dont need to design a new PCB as well as solder anything. We might want to find and create a casing for the components. I found a basic enclosure for the STM32F401RE only. [Nucleo base enclosure](https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Electronics/NucleoBox_V1.1.stl)
 
 ## Power Up
+
 By plugging it into the PC using the mini-USB connector we provide power into the whole system. In the winter semester, I will input more power into the PLC. But as of this current project, it will have enough power provided by the PC when we try the unit testing.
 <img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/Assembled%20Wifi%20PLC%20with%20baseholder.jpg?raw=true">
 
 ## Unit Tesing
 
 For my unit testing, I only run a simple blinky program into the PLC comment to show a connection with all the components stacked. 
+1. To start, you must download [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) provided by STMicroelectronics. It is an all in one STM32 development tool.
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/stm32pic.jpg?raw=true">
 
+2. Plugin your Wifi PLC into a PC using a mini-USB sowe can flash a code into it.
+
+3. Open a the STM32 and click Launch.And, allow the firewall access for the IDE.
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/launchscreen.PNG?raw=true">
+
+4. Start a new STM32 Project.
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/startStm32Project.PNG?raw=true">
+
+5. Find and select NUCLEO-F401RE in the Board Selector and click Next. Name your project as BlinkyF401RE and hit Finish accept the default settings.
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/findf401re.PNG?raw=true" height="550" width="750">
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/nameProject.PNG?raw=true">
+
+Wait for the Software Pakcages Download to finish and hit OK.
+
+<img src="https://github.com/junedacaya/L-wingSolarPanelInteractiveDisplay/blob/master/Documentation/softwarepackagedownload.PNG?raw=true">
+
+6. Select the generate code option and press OK. After the code is generated, you will be able to add the code that will control the LED to blink.
+
+7. In the main.c, Add the following code to control the LED to blink.
+
+7. 
