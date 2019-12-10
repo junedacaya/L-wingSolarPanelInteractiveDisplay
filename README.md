@@ -11,7 +11,7 @@ junedacaya.github.io/L-wingSolarPanelInteractiveDisplay
 5. [Mechanical Assembly](#Mechanical-Assembly)
 6. [PCB Design and Soldering and Enclosure](#PCB-Design-and-Soldering-and-Enclosure)
 7. [Power Up](#Power-Up)
-8. [Unit Testing](#Unit Testing)
+8. [Unit Testing](#Unit-Testing)
 
 ## PLC Components Build Instruction
 For this build instruction, we will be assembling the Nucleo Wifi PLC using their components shown in the System Diagram which are developed and created by STMicroelectronics. There are three primary hardware components that a developer needs to build their own wireless PLC:
